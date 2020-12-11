@@ -1,5 +1,4 @@
 //5
-
 const input = ``.split(",");
 
 function boardingPass(inp) {

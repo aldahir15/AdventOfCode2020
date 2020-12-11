@@ -1,5 +1,4 @@
-2 
-const input = ``.split("\n"); // INPUT HERE
+ const input = ``.split("\n"); // INPUT HERE
 function validCount(arr) {
   let count = 0;
   for (let i = 0; i < arr.length; i++) {
