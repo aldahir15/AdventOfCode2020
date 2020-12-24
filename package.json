@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aldahir15/AdventOfCode2020#readme",
   "dependencies": {
+    "honeycomb-grid": "^3.1.7",
     "hopcroft-karp": "^0.0.2"
   },
   "type": "module"
